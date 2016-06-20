@@ -17,7 +17,7 @@ define(
 {
 	'use strict';
 
-	//@class Home @extends ApplicationModule
+	//@class Aboutus @extends ApplicationModule
 	return {
 		mountToApp: function (application)
 		{
@@ -26,3 +26,6 @@ define(
 	};
 	
 });
+
+
+//this file is used to test the git functionality....ignore any changes.
