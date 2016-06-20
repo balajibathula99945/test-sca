@@ -5,7 +5,7 @@
 	may use this code subject to the terms that govern your access and use.
 */
 
-// @module Home
+// @module About us
 define(
 	'Aboutus'
 ,	[
