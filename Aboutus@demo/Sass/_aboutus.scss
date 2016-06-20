@@ -1,0 +1,25 @@
+#left-side-content{width:49%;display:inline-block;
+	@media (max-width: $screen-md-max) {
+		width:100% !important;
+		float:none !important;
+	}
+}
+#right-side-content{
+	width:49%;
+	float:right;
+	display:inline-block;
+	@media (max-width: $screen-md-max) {
+		width:100% !important;
+		float:none !important;
+	}
+}
+.text-contentarea{
+	text-align:justify;
+}
+#aboutus-content-area{
+	display:inline-block;
+}
+#aboutus-company-info{
+	background-color:#9c1e5c;
+	color:white;
+}
